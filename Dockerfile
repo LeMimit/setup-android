@@ -1,4 +1,4 @@
-FROM alvrme/alpine-android:android-29
+FROM circleci/android:api-29
 
 LABEL version="0.2"
 LABEL repository="https://github.com/msfjarvis/setup-android"
